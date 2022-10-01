@@ -27,8 +27,6 @@ public class MainActivity extends AppCompatActivity {
         mButtonThree = findViewById(R.id.btn_three);
 
         presentShowcaseSequence();
-
-
     }
 
     private void presentShowcaseSequence() {
