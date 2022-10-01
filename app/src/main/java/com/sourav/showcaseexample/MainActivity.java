@@ -30,7 +30,6 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-
     private void presentShowcaseSequence() {
 
         ShowcaseConfig config = new ShowcaseConfig();
