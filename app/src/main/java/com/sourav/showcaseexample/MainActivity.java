@@ -28,6 +28,7 @@ public class MainActivity extends AppCompatActivity {
 
         presentShowcaseSequence();
 
+
     }
 
     private void presentShowcaseSequence() {
